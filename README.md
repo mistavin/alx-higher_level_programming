@@ -1,2 +1,2 @@
-# alx-higher_level_programming
-Python course
+# Python - Data Structures: Lists, Tuples
+Foundations - Higher-level programming ― Python
